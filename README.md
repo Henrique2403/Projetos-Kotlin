@@ -10,7 +10,7 @@
 
 ### RecyclerView
 
-O RecyclerView é um widget de interface do usuário fornecido pelo Android que é flexível e eficiente. Ele é usado para exibir grandes conjuntos de dados que podem ser rolados de forma eficiente tanto na vertical quanto na horizontal. O RecyclerView é altamente personalizável e oferece suporte a layouts flexíveis, como listas, grades e linhas.
+O RecyclerView é um widget de interface do usuário fornecido pelo Android que é flexível e eficiente. Ele é usado para exibir grandes conjuntos de dados que podem ser rolados de forma eficiente tanto na vertical quanto na horizontal. O RecyclerView é altamente personalizável e oferece suporte a layouts flexíveis, como listas e linhas.
 
 ### Adapter
 
