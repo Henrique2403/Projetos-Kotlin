@@ -10,9 +10,9 @@
 
 
 ### Melhorias
--Adição de um EditTextView para o preço do produto no formulário
--Alteração na exibição dos produtos
-  Preço do produto
-  Data e hora
--Método para somar e subtrair o valor total dos produtos
--Exibição do valor total dos preços
+- Adição de um EditTextView para o preço do produto no formulário
+- Alteração na exibição dos produtos:
+    Preço do produto
+    Data e hora
+- Método para somar e subtrair o valor total dos produtos
+- Exibição do valor total dos preços
