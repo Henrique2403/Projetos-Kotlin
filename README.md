@@ -1,7 +1,5 @@
 <h1 align="center">Checkpoint 2</h1>
 
-<h2 align="center">Com foco na aprendizagem que a aplicação nos trouxe</h2>
-
 ### Alunos Responsáveis
 - Gabriel Arbigaus Carvalho de Souza RM 93372
 - Guilherme Cardoso Barreiro RM 94726
